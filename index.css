@@ -555,14 +555,14 @@
   line-height: 108px;
 }
 .home-text07 {
+  font-size: 72px;
   font-style: normal;
 }
 .home-text08 {
-  font-style: normal;
+  font-size: 72px;
 }
 .home-text09 {
-  font-size: 60px;
-  font-weight: 300;
+  font-size: 48px;
 }
 .home-header07 {
   color: rgb(255, 255, 255);
@@ -1237,6 +1237,28 @@
     align-items: center;
     flex-direction: column;
   }
+  .home-header06 {
+    color: rgb(255, 255, 255);
+    font-size: 90px;
+    font-weight: 500;
+    line-height: 108px;
+  }
+  .home-text07 {
+    font-size: 72px;
+    font-style: normal;
+  }
+  .home-text08 {
+    font-size: 72px;
+  }
+  .home-text09 {
+    font-size: 48px;
+  }
+  .home-header08 {
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 500;
+  }
   .home-get-yours {
     height: auto;
     align-items: center;
@@ -1378,8 +1400,18 @@
     gap: var(--dl-space-space-unit);
   }
   .home-header06 {
+    color: rgb(255, 255, 255);
+    line-height: 64px;
+  }
+  .home-text07 {
     font-size: 36px;
-    line-height: 43px;
+    font-style: normal;
+  }
+  .home-text08 {
+    font-size: 36px;
+  }
+  .home-text09 {
+    font-size: 24px;
   }
   .home-header07 {
     width: 80%;
@@ -1432,7 +1464,10 @@
     padding-bottom: var(--dl-space-space-fourunits);
   }
   .home-header14 {
+    color: rgb(255, 255, 255);
     font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
     line-height: 43px;
   }
   .home-element {
@@ -1613,12 +1648,37 @@
     padding: 16px;
   }
   .home-header06 {
+    color: rgb(255, 255, 255);
     width: auto;
     height: auto;
+    font-size: 90px;
     max-width: 70%;
     min-width: auto;
     min-height: auto;
+    font-weight: 500;
     line-height: 64px;
+  }
+  .home-text07 {
+    font-size: 36px;
+    font-style: normal;
+  }
+  .home-text08 {
+    font-size: 36px;
+    font-style: normal;
+  }
+  .home-text09 {
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .home-faq {
+    width: 100%;
+  }
+  .home-header14 {
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 43px;
   }
   .home-header15 {
     font-size: 16px;
