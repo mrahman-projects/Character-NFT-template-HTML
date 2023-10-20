@@ -1414,7 +1414,7 @@
     font-size: 24px;
   }
   .home-header07 {
-    width: 80%;
+    width: 100%;
     font-size: 16px;
     line-height: 24px;
   }
@@ -1669,6 +1669,9 @@
   .home-text09 {
     font-size: 24px;
     font-weight: 300;
+  }
+  .home-header07 {
+    width: 60%;
   }
   .home-faq {
     width: 100%;
