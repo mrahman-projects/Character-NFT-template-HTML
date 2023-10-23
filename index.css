@@ -510,10 +510,10 @@
   align-items: center;
   border-color: var(--dl-color-gray-black);
   flex-direction: row;
-}
-.home-link05 {
-  color: var(--dl-color-gray-black);
   text-decoration: none;
+}
+.home-text07 {
+  color: var(--dl-color-gray-black);
 }
 .home-image4 {
   width: 25px;
@@ -554,14 +554,14 @@
   font-weight: 500;
   line-height: 108px;
 }
-.home-text07 {
+.home-text08 {
   font-size: 72px;
   font-style: normal;
 }
-.home-text08 {
+.home-text09 {
   font-size: 72px;
 }
-.home-text09 {
+.home-text10 {
   font-size: 48px;
 }
 .home-header07 {
@@ -848,7 +848,7 @@
   max-width: 800px;
   line-height: 27px;
 }
-.home-link06 {
+.home-link05 {
   text-decoration: underline;
 }
 .home-icon-container3 {
@@ -1065,7 +1065,7 @@
   max-width: 700px;
   line-height: 27px;
 }
-.home-link07 {
+.home-link06 {
   margin-top: var(--dl-space-space-oneandhalfunits);
   text-decoration: none;
 }
@@ -1144,6 +1144,10 @@
   align-items: flex-start;
   flex-direction: column;
 }
+.home-link07 {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
 .home-link08 {
   color: rgb(255, 255, 255);
   text-decoration: none;
@@ -1153,10 +1157,6 @@
   text-decoration: none;
 }
 .home-link10 {
-  color: rgb(255, 255, 255);
-  text-decoration: none;
-}
-.home-link11 {
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
@@ -1243,14 +1243,14 @@
     font-weight: 500;
     line-height: 108px;
   }
-  .home-text07 {
+  .home-text08 {
     font-size: 72px;
     font-style: normal;
   }
-  .home-text08 {
+  .home-text09 {
     font-size: 72px;
   }
-  .home-text09 {
+  .home-text10 {
     font-size: 48px;
   }
   .home-header08 {
@@ -1406,14 +1406,14 @@
     color: rgb(255, 255, 255);
     line-height: 64px;
   }
-  .home-text07 {
+  .home-text08 {
     font-size: 36px;
     font-style: normal;
   }
-  .home-text08 {
+  .home-text09 {
     font-size: 36px;
   }
-  .home-text09 {
+  .home-text10 {
     font-size: 24px;
   }
   .home-header07 {
@@ -1596,7 +1596,7 @@
     text-align: center;
     line-height: 21px;
   }
-  .home-link07 {
+  .home-link06 {
     margin-top: 0px;
   }
   .home-footer {
@@ -1622,7 +1622,7 @@
     font-size: 12px;
     line-height: 18px;
   }
-  .home-text18 {
+  .home-text19 {
     width: 80%;
     font-size: 12px;
     line-height: 18px;
@@ -1663,15 +1663,15 @@
     font-weight: 500;
     line-height: 64px;
   }
-  .home-text07 {
-    font-size: 36px;
-    font-style: normal;
-  }
   .home-text08 {
     font-size: 36px;
     font-style: normal;
   }
   .home-text09 {
+    font-size: 36px;
+    font-style: normal;
+  }
+  .home-text10 {
     font-size: 24px;
     font-weight: 300;
   }
